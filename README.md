@@ -1,4 +1,4 @@
-BFS Pathfinder
+# BFS Pathfinder
 
 Overview
 BFS Pathfinder is an implementation of the Breadth-First Search (BFS) algorithm to find the shortest path in a grid. The project demonstrates how BFS, a graph traversal algorithm, can be applied to solve pathfinding problems. BFS guarantees that the shortest path (in terms of number of edges or steps) between a start and an end node is found.
